@@ -1,0 +1,3 @@
+microsoft-graph-core
+azure-ai-textanalytics
+openai
